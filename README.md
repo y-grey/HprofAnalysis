@@ -11,13 +11,19 @@ __1、Download__
 
 * Step 2. run cmd
 java -jar HprofAnalysis.jar [hprof path]
+
 java -jar HprofAnalysis.jar [hprof path] findLeak
+
 java -jar HprofAnalysis.jar [hprof path] findLeak findBitmap
+
 
 _Explain：
         [hprof path] : The Hprof file path you need to analyze
+
         findLeak    : Just find leaked Activity and Fragment
+
         findBitmap  : find Bitmap address and its leakTrace
+        ]
 _
 
 Thanks
