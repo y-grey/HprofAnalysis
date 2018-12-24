@@ -23,7 +23,7 @@ __2、Explain__
 
         findLeak    : Just find leaked Activity and Fragment
 
-        findBitmap  : find Bitmap address and its leakTrace
+        findBitmap  : find Bitmap address and its ref Trace
 
 Thanks
 --------
