@@ -19,11 +19,11 @@ java -jar HprofAnalysis.jar [hprof path] findLeak findBitmap
 
 __2、Explain__
 
-        _[hprof path] : The Hprof file path you need to analyze
+        [hprof path] : The Hprof file path you need to analyze
 
         findLeak    : Just find leaked Activity and Fragment
 
-        findBitmap  : find Bitmap address and its leakTrace_
+        findBitmap  : find Bitmap address and its leakTrace
 
 Thanks
 --------
