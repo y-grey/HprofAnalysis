@@ -17,9 +17,9 @@ java -jar HprofAnalysis.jar [hprof path] findLeak
 
 java -jar HprofAnalysis.jar [hprof path] findLeak findBitmap
 
+__2、Explain__
 
-_Explain：
-        [hprof path] : The Hprof file path you need to analyze
+        _[hprof path] : The Hprof file path you need to analyze
 
         findLeak    : Just find leaked Activity and Fragment
 
